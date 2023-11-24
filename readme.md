@@ -13,3 +13,5 @@ NOTA: para usar YOLO debe instalar la paquetería de Ultralytics
 Escribir en terminar el siguiente comando
 
 `pip install ultralytics`
+
+Link del video de la exposición [aquí](https://drive.google.com/file/d/1dHsfVyBhNoZtLFo_2F3XO8Bh_DtZ3ZAK/view?usp=sharing)
