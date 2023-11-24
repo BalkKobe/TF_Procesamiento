@@ -5,6 +5,8 @@
 # Integrantes del grupo
 + Sebastian Aaron Guevara Dominguez - U20181H207
 + Marlon Omar Llaguento de la Cruz - U20201B055
++ Marcelo Guerrero Iparraguirre - U202012258
++ Marco Antonio Fuentes Rivera Onofre - U20211B693
 
 NOTA: para usar YOLO debe instalar la paquetería de Ultralytics
 
